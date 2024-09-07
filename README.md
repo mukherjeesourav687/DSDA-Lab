@@ -15,6 +15,7 @@ Programme 7: Data Integration and Reduction
 Programme 8: Imbalanced Data Handling
 Programme 9: Time Series Data Preprocessing
 Programme 10: Data Augmentation
+
 Lab 2: Exploratory Data Analysis (EDA)
 
 Programme 1: Descriptive Statistics
@@ -27,6 +28,7 @@ Programme 7: Handling Large Datasets
 Programme 8: Principal Component Analysis (PCA)
 Programme 9: Cluster Analysis
 Programme 10: Data Profiling
+
 Lab 3: Machine Learning Fundamentals
 
 Programme 1: Linear Regression
@@ -39,6 +41,7 @@ Programme 7: Naive Bayes Classifier
 Programme 8: Gradient Boosting Algorithms
 Programme 9: Model Evaluation Techniques
 Programme 10: Cross-Validation
+
 Lab 4: Advanced Machine Learning Models
 
 Programme 1: Neural Networks Basics
@@ -51,6 +54,7 @@ Programme 7: Reinforcement Learning
 Programme 8: Hyperparameter Tuning
 Programme 9: Model Deployment
 Programme 10: Time Series Forecasting
+
 Lab 5: Statistical Analysis and Hypothesis Testing
 
 Programme 1: T-tests and ANOVA
@@ -63,6 +67,7 @@ Programme 7: Experimental Design
 Programme 8: Power Analysis
 Programme 9: Multivariate Analysis of Variance (MANOVA)
 Programme 10: Statistical Modelling with R
+
 Lab 6: Data Visualisation Techniques
 
 Programme 1: Basic Plotting with Python
@@ -75,6 +80,7 @@ Programme 7: Heatmaps and Correlation Matrices
 Programme 8: 3D Plotting
 Programme 9: Visualisation for Big Data
 Programme 10: Custom Plotting Styles
+
 Lab 7: Real-World Applications
 
 Programme 1: Predictive Modelling for Customer Churn
@@ -89,6 +95,7 @@ Programme 9: Smart City Data Analysis
 Programme 10: Autonomous Vehicles Simulation
 
 Overview
+
 Each programme in this repository demonstrates key techniques in data science and data analytics, such as:
 
 * Data preprocessing
